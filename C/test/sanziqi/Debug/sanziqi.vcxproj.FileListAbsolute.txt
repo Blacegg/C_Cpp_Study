@@ -1,0 +1,2 @@
+D:\c语言练习\sanziqi\Debug\sanziqi.exe
+D:\c语言练习\test\sanziqi\Debug\sanziqi.exe

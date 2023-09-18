@@ -1,0 +1,8 @@
+﻿  源.cpp
+D:\c语言练习\烟花\源.cpp(40,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\c语言练习\烟花\源.cpp(41,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\c语言练习\烟花\源.cpp(164,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\c语言练习\烟花\源.cpp(165,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\c语言练习\烟花\源.cpp(169,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\c语言练习\烟花\源.cpp(170,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  烟花.vcxproj -> D:\c语言练习\烟花\Debug\烟花.exe
