@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "D:/software install/mingw64/bin/g++.exe",
+            "cStandard": "c17",
+            "cppStandard": "gnu++14"
+        }
+    ],
+    "version": 4
+}
