@@ -46,16 +46,16 @@ int main()
             wm.Mod_Emp();
             break;
         case 5: // 查找职工
-            //wm.Find_Emp();
+            wm.Find_Emp();
             break;
         case 6: // 排序职工
-            //wm.Sort();
+            wm.Sort();
             break;
         case 7: // 清空文件
-            //wm.Clean_File();
+            wm.Clean_File();
             break;
         default:
-            //system("cls");
+            system("cls");
             break;
         }
     }
