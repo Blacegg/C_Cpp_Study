@@ -16,6 +16,7 @@ int main()
         switch (choice)
         {
         case 1:
+            sm.startSpeech();
             break;
         case 2:
             break;
