@@ -168,11 +168,19 @@ void test4()
     }
 }
 
+void test5()
+{
+    int num = 6;
+    int d = (num++) % 6;
+    cout << d << endl;
+}
+
 int main()
 {
     // test1();
     // test2();
-     test3();
+    // test3();
     // test4();
-    return 0;
+     test5();
+     return 0;
 }
