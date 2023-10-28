@@ -9,7 +9,6 @@ SpeechManager::SpeechManager()
 
 SpeechManager::~SpeechManager()
 {
-    cout << "析构了一个演讲管理类" << endl;
 }
 
 void SpeechManager::Show_Menu()
